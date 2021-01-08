@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [ZeroPay](https://zeropay.io)
 
-- 🔭 I’m currently working on **Accenture**
-
 - 📫 How to reach me **hugouraga61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
