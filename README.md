@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hugo uraga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugo uraga" height="30" width="40" /></a>
 <a href="https://fb.com/hugo uraga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hugo uraga" height="30" width="40" /></a>
-<a href="https://instagram.com/hugo uraga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hugo uraga" height="30" width="40" /></a>
+<a href="https://instagram.com/hugo_uraga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hugo uraga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
